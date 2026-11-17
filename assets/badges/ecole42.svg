@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="209" height="28" role="img" aria-label="École 42: São Paulo"><title>École 42: São Paulo</title>
+<clipPath id="r"><rect width="209" height="28" rx="4"/></clipPath>
+<g clip-path="url(#r)"><rect width="109" height="28" fill="#555555"/><rect x="109" width="100" height="28" fill="#000000"/></g>
+<svg x="10" y="6" width="16" height="16" viewBox="0 0 24 24"><path fill="#FFFFFF" d="M19.581 16.851H24v-4.439ZM24 3.574h-4.419v4.42l-4.419 4.418v4.44h4.419v-4.44L24 7.993Zm-4.419 0h-4.419v4.42zm-6.324 8.838H4.419l8.838-8.838H8.838L0 12.412v3.595h8.838v4.419h4.419z"/></svg>
+<g font-family="Verdana,DejaVu Sans,Geneva,sans-serif" font-size="10" font-weight="bold" fill="#FFFFFF" letter-spacing="1">
+<text x="65.7" y="18" text-anchor="middle">ÉCOLE 42</text>
+<text x="158.8" y="18" text-anchor="middle">SÃO PAULO</text></g></svg>
